@@ -23,20 +23,19 @@ function About() {
         </ScrollAnimation>
           <div className="AboutBio">
             <ScrollAnimation animateIn="fadeInLeft">
-            Hello! My name is <strong>Pedro Muniz</strong>. I'm originally from Brazil and have been living in Canada for the past three years. During my time here, I gained valuable experience through various entry-level positions, which greatly enhanced my work ethic, communication skills, and adaptability.
+            I'm Aditya Choudhary, a passionate Computer Engineering student at Sardar Patel Institute of Technology in Mumbai. With a keen interest in solving complex problems and exploring new technologies, I am dedicated to pushing the boundaries of what’s possible in the tech world.
             </ScrollAnimation>
 
             <br /><br />
             
             <ScrollAnimation animateIn="fadeInLeft">
-            My journey into the world of technology began with a strong passion for problem-solving, which led me to pursue the Computer Systems Technology program. Despite its challenges, I remained determined and forged lasting friendships that supported me throughout this demanding program.
-            Throughout my studies at BCIT, I had the opportunity to engage in fascinating projects. Notably, I contributed to the development of the RENR Safety App and MyMind, projects that garnered recognition from my colleagues, instructors, and clients alike.
+            Currently pursuing my bachelor's degree in Computer Science, I enjoy diving into algorithmic challenges on platforms like LeetCode. This not only hones my problem-solving skills but also keeps me engaged with new and exciting concepts in the field.
             </ScrollAnimation>
 
             <br /><br />
 
             <ScrollAnimation animateIn="fadeInLeft">
-              Working collaboratively within a team towards a shared objective has been an incredibly rewarding and unique experience for me. I am eager to continue exploring exciting projects in the future, with a particular interest in web development and cross-platform mobile development.
+            My academic journey is driven by a love for learning and a proactive approach to tackling real-world problems. Whether it's through collaborative projects, hands-on coding, or exploring the latest advancements in technology, I am always eager to grow and make a meaningful impact.
               <div className="tagline2">
                 I have become confident using the following technologies:
               </div>

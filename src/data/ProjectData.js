@@ -1,50 +1,50 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "/ykte-feature-graphic.png",
-    title: "YouKnowTheEnding",
+    img: "/project1.png",
+    title: "ANNADAATA",
     description:
-      "A cross-platform mobile game (in closed testing) where players try to find the missing pieces of a story.",
-    tech_stack: ["React Native", "Google Cloud", "NextJs", "TailwindCSS"],
-    github_url: "",
-    demo_url: "https://youknowtheending.net/",
+      "Annadaata is a Food Donation Management System that collects and distributes surplus food to those in need. Our goal is to minimize food waste and feed the hungry by connecting donors with food banks and shelters.",
+    tech_stack: ["Javascript","Node.js","Express js","MongoDB","Ejs"],
+    github_url: "https://github.com/adiitya24/ANNADAATA",
+   demo_url: "/",
   },
   {
-    img: "/renr-responsive.png",
-    title: "RENR Safety App",
+    img: "/project2.png",
+    title: "Stack-Assist",
     description:
-      "A safety application for the Renewable Resources Dept. of BCIT",
-    tech_stack: ["React", "Firebase"],
-    github_url: "",
-    demo_url: "https://renr-bcit.web.app/",
+      "Stack Assist is a Q&A website for developers to share knowledge, solve problems, and enhance skills, fostering a collaborative environment for all experience levels.",
+    tech_stack: ["React.js","GraphQL", "Node.js","MongoDB",],
+    github_url: "https://github.com/adiitya24/Stack-Assist",
+    demo_url: "/",
   },
   {
-    img: "/mymind-responsive.png",
-    title: "MyMind",
+    img: "/project3.png",
+    title: "HealthAssist",
     description:
-      "An app where users can purchase online therapy sessions and chat with their therapists.",
-    tech_stack: ["HTML", "CSS", "NodeJs", "MongoDB", "SocketIo"],
-    github_url: "https://github.com/salesp07/MyMind---Copy",
-    demo_url: "https://mymindweb.vercel.app/",
+      "Health Assist is a comprehensive medical website designed to revolutionize healthcare processes and elevate patient care. It offers a range of features aimed at improving diagnosis accuracy, facilitating seamless communication between patients and healthcare providers, and optimizing hospital management.",
+    tech_stack: ["Django","SQL","CNN","WebRTC","Html","Css"],
+    github_url: "https://github.com/adiitya24/Out_of_Bounds",
+    demo_url: "/",
   },
   {
-    img: "/pokedex-responsive.png",
-    title: "Pokedex",
+    img: "/project4.png",
+    title: "WalletWise",
     description:
-      "A pokedex app that displays pokemon data, plays OSTs and makes pokemons dance.",
-    tech_stack: ["ReactJs", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/Pokedex-ReactApp",
-    demo_url: "https://pokedex-salesp07.netlify.app/",
+      "WalletWise is a user-friendly expense tracker for managing your finances. Easily add, retrieve, and delete income and expenses, view recent transactions, and visualize your financial data with insightful charts.",
+    tech_stack: ["ReactJs", "NodeJs","ExpressJs", "MongoDB"],
+    github_url: "https://github.com/adiitya24/WalletWise",
+    demo_url: "/",
   },
-  {
-    img: "/jobDetect.png",
-    title: "JobDetect",
-    description:
-      "An app to detect if a job posting is a scam or not using its description.",
-    tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-    github_url: "https://github.com/salesp07/JobDetectNode",
-    demo_url: "https://jobdetective.onrender.com/",
-  },
+  // {
+  //   img: "/jobDetect.png",
+  //   title: "JobDetect",
+  //   description:
+  //     "An app to detect if a job posting is a scam or not using its description.",
+  //   tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
+  //   github_url: "https://github.com/salesp07/JobDetectNode",
+  //   demo_url: "https://jobdetective.onrender.com/",
+  // },
 ];
 
 // --------------------------------------- Skills
@@ -66,30 +66,30 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
     name: "ReactJS",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
-    name: "NextJs",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
-    name: "Typescript",
-  },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg",
+  //   name: "NextJs",
+  // },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg",
+  //   name: "Typescript",
+  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
     name: "Git",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
-    name: "React Native",
-  },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg",
+  //   name: "React Native",
+  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg",
     name: "NodeJS",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
-    name: "Firebase",
-  },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg",
+  //   name: "Firebase",
+  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg",
     name: "MongoDB",
@@ -98,14 +98,14 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
     name: "Python",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
-    name: "Flask",
-  },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-    name: "C",
-  },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg",
+  //   name: "Flask",
+  // },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
+  //   name: "C",
+  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg",
     name: "Java",
@@ -126,10 +126,10 @@ export const stackList = [
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg",
     name: "Figma",
   },
-  {
-    img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
-    name: "TailwindCSS",
-  },
+  // {
+  //   img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg",
+  //   name: "TailwindCSS",
+  // },
   {
     img: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg",
     name: "VS Code",
