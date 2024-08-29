@@ -7,7 +7,7 @@ export const ProjectList = [
       "Annadaata is a Food Donation Management System that collects and distributes surplus food to those in need. Our goal is to minimize food waste and feed the hungry by connecting donors with food banks and shelters.",
     tech_stack: ["Javascript","Node.js","Express js","MongoDB","Ejs"],
     github_url: "https://github.com/adiitya24/ANNADAATA",
-   demo_url: "/",
+   demo_url: "https://github.com/adiitya24/ANNADAATA",
   },
   {
     img: "/project2.png",
@@ -16,7 +16,7 @@ export const ProjectList = [
       "Stack Assist is a Q&A website for developers to share knowledge, solve problems, and enhance skills, fostering a collaborative environment for all experience levels.",
     tech_stack: ["React.js","GraphQL", "Node.js","MongoDB",],
     github_url: "https://github.com/adiitya24/Stack-Assist",
-    demo_url: "/",
+    demo_url: "https://github.com/adiitya24/Stack-Assist",
   },
   {
     img: "/project3.png",
@@ -25,7 +25,7 @@ export const ProjectList = [
       "Health Assist is a comprehensive medical website designed to revolutionize healthcare processes and elevate patient care. It offers a range of features aimed at improving diagnosis accuracy, facilitating seamless communication between patients and healthcare providers, and optimizing hospital management.",
     tech_stack: ["Django","SQL","CNN","WebRTC","Html","Css"],
     github_url: "https://github.com/adiitya24/Out_of_Bounds",
-    demo_url: "/",
+    demo_url: "https://github.com/adiitya24/Out_of_Bounds",
   },
   {
     img: "/project4.png",
@@ -34,7 +34,7 @@ export const ProjectList = [
       "WalletWise is a user-friendly expense tracker for managing your finances. Easily add, retrieve, and delete income and expenses, view recent transactions, and visualize your financial data with insightful charts.",
     tech_stack: ["ReactJs", "NodeJs","ExpressJs", "MongoDB"],
     github_url: "https://github.com/adiitya24/WalletWise",
-    demo_url: "/",
+    demo_url: "https://github.com/adiitya24/WalletWise",
   },
   // {
   //   img: "/jobDetect.png",
