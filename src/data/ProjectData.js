@@ -36,15 +36,15 @@ export const ProjectList = [
     github_url: "https://github.com/adiitya24/WalletWise",
     demo_url: "https://github.com/adiitya24/WalletWise",
   },
-  // {
-  //   img: "/jobDetect.png",
-  //   title: "JobDetect",
-  //   description:
-  //     "An app to detect if a job posting is a scam or not using its description.",
-  //   tech_stack: ["Python", "Flask", "NodeJs", "MongoDB"],
-  //   github_url: "https://github.com/salesp07/JobDetectNode",
-  //   demo_url: "https://jobdetective.onrender.com/",
-  // },
+   {
+     img: "/project5.png",
+     title: "AI-Powered Spam Detection",
+     description:
+       "he AI-Powered Spam Detection project is a machine learning solution designed to classify emails as spam or not spam with high accuracy",
+     tech_stack: ["Python", "Scikit-lear", "NLTK", "Matplotlib"],
+     github_url: "https://github.com/adiitya24/AI-Powered-Spam-Detection",
+     demo_url: "https://github.com/adiitya24/AI-Powered-Spam-Detection",
+   },
 ];
 
 // --------------------------------------- Skills
