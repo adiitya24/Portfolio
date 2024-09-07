@@ -40,7 +40,7 @@ export const ProjectList = [
      img: "/project5.png",
      title: "AI-Powered Spam Detection",
      description:
-       "he AI-Powered Spam Detection project is a machine learning solution designed to classify emails as spam or not spam with high accuracy",
+       "AI-Powered Spam Detection project is a machine learning solution designed to classify emails as spam or not spam with high accuracy",
      tech_stack: ["Python", "Scikit-lear", "NLTK", "Matplotlib"],
      github_url: "https://github.com/adiitya24/AI-Powered-Spam-Detection",
      demo_url: "https://github.com/adiitya24/AI-Powered-Spam-Detection",
